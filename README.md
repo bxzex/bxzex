@@ -16,6 +16,7 @@ Operating under the professional brand **[bxzex.com](https://bxzex.com)**, I arc
 
 ### Featured Open-Source Systems
 
+*   **[Piano](https://bxzex.github.io/piano/)**: A single-file browser concert piano — additive synthesis, six voices, a live tone console, and an interactive song-learning mode. No samples, no dependencies. *([play it live](https://bxzex.github.io/piano/) · [source](https://github.com/bxzex/piano))*
 *   **AutoApply**: A robust job automation engine designed to optimize the application pipeline.
 *   **VoltCraft**: A high-performance 3D voxel engine engineered directly in the browser using WebGL/WebGPU principles.
 *   **MarketData**: A financial visualization platform delivering real-time streaming charts and low-latency metrics.
