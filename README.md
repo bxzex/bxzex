@@ -35,12 +35,17 @@ Operating under the professional brand **[bxzex.com](https://bxzex.com)**, I arc
 ### GitHub Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=bxzex&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true" alt="Brian Ochoa's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bxzex&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bxzex&theme=tokyonight" alt="Brian Ochoa's GitHub Stats" width="97%" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bxzex&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bxzex&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bxzex&theme=tokyonight" alt="Most Commit Language" width="48%" />
+</p>
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bxzex&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bxzex&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
 ---
