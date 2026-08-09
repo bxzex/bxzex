@@ -35,7 +35,7 @@ Operating under the professional brand **[bxzex.com](https://bxzex.com)**, I arc
 ### GitHub Analytics
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bxzex&theme=tokyonight" alt="Brian Ochoa's GitHub Stats" width="97%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bxzex&theme=tokyo-night&hide_border=true&area=true&custom_title=Contributions%20in%20the%20last%20year" alt="Brian Ochoa's contribution graph" width="97%" />
 </p>
 
 <p align="left">
