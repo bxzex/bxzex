@@ -1,36 +1,24 @@
 # Brian Ochoa
-**Senior Software Engineer & Cloud Architect**
 
-Operating under the professional brand **[bxzex.com](https://bxzex.com)**, I architect and scale premium SaaS platforms, high-performance WebGL applications, and enterprise-grade cloud infrastructure.
+I run [bxzex](https://bxzex.com), a small software studio in Orlando. I build web apps, sites for local businesses, browser games and audio tools, mostly in TypeScript and JavaScript, sometimes C++ and Python.
 
----
+I like making things that feel impossible in a browser tab. A DAW, a 3D game with no engine, a mastering tool that measures loudness to the broadcast spec.
 
-### Core Expertise
+### Some things I've made
 
-*   **Full-Stack & AI Systems**: TypeScript, JavaScript, C++, React, Node.js, Python.
-*   **Graphics & Low-Level API**: WebGPU, high-performance browser engines, WebGL.
-*   **Cloud & Infrastructure**: Google Cloud Platform (Certified Architect), AWS, SQL, scalable microservices, PM2.
-*   **Enterprise Integration**: Salesforce development & administration, automated background service bots, advanced API architectures.
+- **[Loopbase](https://github.com/bxzex/loopbase)**, a music studio for the web, Mac and Windows. Every sound in it is generated in code.
+- **[Pale Hour](https://bxzex.github.io/pale-hour/)**, a first-person horror survival game with no asset files at all.
+- **[Voltcraft](https://bxzex.github.io/voltcraft/)**, a block building game with multiplayer over WebRTC.
+- **[Piano](https://bxzex.github.io/piano/)**, a piano with six synthesized voices and a mode that teaches you songs.
+- **[Skylane](https://bxzex.com/sites/skylane/)**, a canyon flight game written in raw WebGL2.
+- **[Master](https://bxzex.com/sites/master/)**, online mastering with real loudness metering and a lookahead limiter.
 
----
+There's more on [bxzex.com](https://bxzex.com).
 
-### Featured Open-Source Systems
+### Certifications
 
-*   **[Piano](https://bxzex.github.io/piano/)**: A single-file browser concert piano — additive synthesis, six voices, a live tone console, and an interactive song-learning mode. No samples, no dependencies. *([play it live](https://bxzex.github.io/piano/) · [source](https://github.com/bxzex/piano))*
-*   **AutoApply**: A robust job automation engine designed to optimize the application pipeline.
-*   **VoltCraft**: A high-performance 3D voxel engine engineered directly in the browser using WebGL/WebGPU principles.
-*   **MarketData**: A financial visualization platform delivering real-time streaming charts and low-latency metrics.
-*   **AI Platform**: An extensible, modular framework built for orchestrating autonomous agent workflows.
-*   **Leads Scraper**: A distributed background bot service designed for high-throughput data extraction and CRM ingestion.
-
----
-
-### Professional Certifications
-
-*   **Google Cloud Certified** — Professional Cloud Architect
-*   **Salesforce Administrator (SCA)** — Platform Developer focus
-
----
+- Google Cloud Certified Professional Cloud Architect
+- Salesforce Certified Administrator
 
 ### GitHub Analytics
 
@@ -46,7 +34,7 @@ Operating under the professional brand **[bxzex.com](https://bxzex.com)**, I arc
 
 ---
 
-### Connect & Verify
+### Get in touch
 
 *   **Website**: [bxzex.com](https://bxzex.com)
 *   **LinkedIn**: [linkedin.com/in/bxzex](https://linkedin.com/in/bxzex/)
