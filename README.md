@@ -6,6 +6,9 @@ I like making things that feel impossible in a browser tab. A DAW, a 3D game wit
 
 ### Some things I've made
 
+- **[OpenWorld](https://sites.bxzex.com/openworld/)**, a map app with search, directions and turn-by-turn navigation, plus a 3D Earth with every aircraft, satellite and storm live. Built only on open data.
+- **[Eucian](https://eucian.com)**, an AI chat app with web search, deep research, pictures and an agent mode, live with paid plans.
+- **[Sundown](https://sites.bxzex.com/sundown/)**, a first-person shooter in the browser with 170,000 blades of grass drawn on the GPU.
 - **[Loopbase](https://github.com/bxzex/loopbase)**, a music studio for the web, Mac and Windows. Every sound in it is generated in code.
 - **[Pale Hour](https://bxzex.github.io/pale-hour/)**, a first-person horror survival game with no asset files at all.
 - **[Voltcraft](https://bxzex.github.io/voltcraft/)**, a block building game with multiplayer over WebRTC.
